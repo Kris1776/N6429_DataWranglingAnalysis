@@ -1,0 +1,41 @@
+record_id,patient_id,clinic,referral_service,referral_date,due_date,completion_date,social_needs_flag,contact_attempts,clinic_clean,service_clean,completed,on_time
+Q001,P001,NORTHSIDE CLINIC,medication review,2026-08-03,2026-08-17,2026-08-13,1,1.0,Northside Clinic,Medication review,True,True
+Q002,P002,Riverbend Clinic,Social work,2026-08-05,2026-08-19,2026-08-18,0,2.0,Riverbend Clinic,Social work,True,True
+Q003,P003,Mountain View Clinic,Nutrition,2026-08-07,2026-08-14,2026-08-14,0,3.0,Mountain View Clinic,Nutrition,True,True
+Q004,P004,Northside Clinic,Care coordination,2026-08-09,2026-08-23,2026-08-21,0,1.0,Northside Clinic,Care coordination,True,True
+Q005,P005,Riverbend Clinic,Medication review,2026-08-11,2026-08-25,2026-08-26,1,2.0,Riverbend Clinic,Medication review,True,False
+Q006,P006,Mountain View Clinic,Social work,2026-08-13,2026-08-20,2026-08-23,0,3.0,Mountain View Clinic,Social work,True,False
+Q007,P007,Northside Clinic,Nutrition,2026-08-15,2026-08-29,,0,3.0,Northside Clinic,Nutrition,False,False
+Q008,P008,Riverbend Clinic,Care coordination,2026-08-17,2026-08-31,2026-09-03,0,2.0,Riverbend Clinic,Care coordination,True,False
+Q009,P009,Mountain View Clinic,Medication review,2026-08-19,2026-08-26,2026-09-01,1,3.0,Mountain View Clinic,Medication review,True,False
+Q010,P010,Northside Clinic,social work,2026-08-21,2026-09-04,2026-08-31,1,1.0,Northside Clinic,Social work,True,True
+Q011,P011,Riverbend Clinic,Nutrition,2026-08-23,2026-09-06,2026-09-05,0,2.0,Riverbend Clinic,Nutrition,True,True
+Q012,P012,MOUNTAIN VIEW CLINIC,Care coordination,2026-08-25,2026-09-01,2026-09-01,0,3.0,Mountain View Clinic,Care coordination,True,True
+Q013,P013,Northside Clinic,Medication review,2026-08-27,2026-09-10,2026-09-08,1,1.0,Northside Clinic,Medication review,True,True
+Q014,P014,River Bend Clinic,Social work,2026-08-29,2026-09-12,,0,3.0,Riverbend Clinic,Social work,False,False
+Q015,P015,Mountain View Clinic,Nutrition,2026-08-31,2026-09-07,,0,3.0,Mountain View Clinic,Nutrition,False,False
+Q016,P016,Northside Clinic,Care coordination,2026-09-02,2026-09-16,2026-09-16,0,1.0,Northside Clinic,Care coordination,True,True
+Q017,P017,Riverbend Clinic,Medication review,2026-09-04,2026-09-18,2026-09-21,1,2.0,Riverbend Clinic,Medication review,True,False
+Q018,P018,Mountain View Clinic,,2026-09-06,2026-09-13,2026-09-19,0,3.0,Mountain View Clinic,Unknown,True,False
+Q019,P019,Northside Clinic,nutrition,2026-09-08,2026-09-22,2026-09-18,1,1.0,Northside Clinic,Nutrition,True,True
+Q020,P020,Riverbend Clinic,Care coordination,2026-09-10,2026-09-24,2026-09-23,0,2.0,Riverbend Clinic,Care coordination,True,True
+Q021,P021,Mountain View Clinic,Medication review,2026-09-12,2026-09-19,,1,3.0,Mountain View Clinic,Medication review,False,False
+Q022,P022,Northside Clinic,Social work,2026-09-14,2026-09-28,2026-09-26,0,1.0,Northside Clinic,Social work,True,True
+Q023,P023,RIVERBEND CLINIC,Nutrition,2026-09-16,2026-09-30,2026-10-01,0,,Riverbend Clinic,Nutrition,True,False
+Q024,P024,Mountain View Clinic,Care coordination,2026-09-18,2026-09-25,2026-09-28,0,3.0,Mountain View Clinic,Care coordination,True,False
+Q025,P025,Northside Clinic,Medication review,2026-09-20,2026-10-04,2026-10-04,1,1.0,Northside Clinic,Medication review,True,True
+Q026,P026,Riverbend Clinic,Social work,2026-09-22,2026-10-06,2026-10-09,0,2.0,Riverbend Clinic,Social work,True,False
+Q027,P027,Mountain View Clinic,Nutrition,2026-09-24,2026-10-01,2026-10-07,0,3.0,Mountain View Clinic,Nutrition,True,False
+Q028,P028,Northside Clinic,care coordination,2026-09-26,2026-10-10,,1,3.0,Northside Clinic,Care coordination,False,False
+Q029,P029,Riverbend Clinic,Medication review,2026-09-28,2026-10-12,2026-10-11,1,2.0,Riverbend Clinic,Medication review,True,True
+Q030,P030,Mountain View Clinic,Social work,2026-09-30,2026-10-07,,0,3.0,Mountain View Clinic,Social work,False,False
+Q031,P001,Northside Clinic,Nutrition,2026-10-02,2026-10-16,2026-10-14,1,1.0,Northside Clinic,Nutrition,True,True
+Q032,P002,Riverbend Clinic,Care coordination,2026-10-04,2026-10-18,2026-10-19,0,2.0,Riverbend Clinic,Care coordination,True,False
+Q033,P003,Mountain View Clinic,Medication review,2026-10-06,2026-10-13,2026-10-16,0,3.0,Mountain View Clinic,Medication review,True,False
+Q034,P004,NORTHSIDE CLINIC,Social work,2026-10-08,2026-10-22,2026-10-22,0,1.0,Northside Clinic,Social work,True,True
+Q035,P005,Riverbend Clinic,Nutrition,2026-10-10,2026-10-24,,1,3.0,Riverbend Clinic,Nutrition,False,False
+Q036,P006,Mountain View Clinic,Care coordination,2026-10-12,2026-10-19,2026-10-25,0,3.0,Mountain View Clinic,Care coordination,True,False
+Q037,P007,Northside Clinic,medication review,2026-10-14,2026-10-28,2026-10-24,0,1.0,Northside Clinic,Medication review,True,True
+Q038,P008,Riverbend Clinic,Social work,2026-10-16,2026-10-30,2026-10-29,0,2.0,Riverbend Clinic,Social work,True,True
+Q039,P009,Mountain View Clinic,Nutrition,2026-10-18,2026-10-25,2026-10-25,1,3.0,Mountain View Clinic,Nutrition,True,True
+Q040,P010,Northside Clinic,Care coordination,2026-10-20,2026-11-03,2026-11-01,1,1.0,Northside Clinic,Care coordination,True,True
